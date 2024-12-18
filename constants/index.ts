@@ -52,7 +52,7 @@ export const FOOTER_LINKS = [
   {
     title: "Learn More",
     links: [
-      "About Hilink",
+      "About Wanderlay",
       "Press Releases",
       "Environment",
       "Jobs",
@@ -62,7 +62,11 @@ export const FOOTER_LINKS = [
   },
   {
     title: "Our Community",
-    links: ["Climbing xixixi", "Hiking hilink", "Wanderlay kinthill"],
+    links: [
+      "Climbing mount everest",
+      "Wandering through Wanderlay",
+      "Wanderlay kinthill",
+    ],
   },
 ];
 
@@ -70,7 +74,7 @@ export const FOOTER_CONTACT_INFO = {
   title: "Contact Us",
   links: [
     { label: "Admin Officer", value: "123-456-7890" },
-    { label: "Email Officer", value: "hilink@akinthil.com" },
+    { label: "Email Officer", value: "wanderlay@travels.com" },
   ],
 };
 
