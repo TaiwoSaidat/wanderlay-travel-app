@@ -1,4 +1,3 @@
-
 import Image from "next/image";
 import Button from "./Button";
 
@@ -34,6 +33,9 @@ const Hero = () => {
                   height={24}
                 />
               ))}
+        {/*   {Array(5).fill(1).map((_, index) => {
+                return (<Image key={index} src="star.svg" alt="star" width={24} height={24} />);
+              })} */}
           </div>
 
           <p className="bold-16 lg:bold-20 text-blue-70">
